@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MyFoodListApp</string>
+    <string name="Akpu">Akpu</string>
+    <string name="Amala">Amala</string>
+    <string name="Eba">Eba</string>
+    <string name="Fried_Rice">Fried_Rice</string>
+    <string name="Jolof_Rice">Jolof_Rice</string>
+    <string name="moi_moi">moi_moi</string>
+    <string name="Noodles">Noodles</string>
+    <string name="Tuwo">Tuwo</string>
+    <string name="price_Akpu">\u20A650</string>
+    <string name="price_Amala">\u20A6 750</string>
+    <string name="price_Eba">\u20A6 250</string>
+    <string name="price_Fried_Rice">\u20A6 200</string>
+    <string name="price_Jolof_Rice">\u20A6 900</string>
+    <string name="price_Moi_Moi">\u20A6 850</string>
+    <string name="price_Noodles">\u20A6 650</string>
+    <string name="price_Tuwo">\u20A6 150</string>
+
+    <string name="Akpu_detail">Akpu is a staple food gotten from cassava and eaten mostly by the Igbos. It is one of the numerous products cassava can be processed into.</string>
+    <string name="Amala_detail">Amala is a traditional Nigerian meal eaten by the Yoruba ethnic group in the country’s western states. It’s manufactured using unripe plantain flour, yam flour, and/or cassava flour.</string>
+    <string name="Eba_detail">Ẹ̀bà is a staple food mainly eaten in the West African sub-region, particularly in Nigeria and parts of Ghana.It is specifically called Eba by the Yoruba people. It is a cooked starchy vegetable food </string>
+    <string name="Fried_Rice_detail">this is a fried Rice </string>
+    <string name="Jolof_Rice_detail">this is a Jolof Rice </string>
+    <string name="Moi_Moi_detail">this is a Moi_Moi made with Beans </string>
+    <string name="Noodles_detail">this is a noodles </string>
+    <string name="Tuwo_detail">this Tuwo made with maize, and it is a traditional food eaten by Hausa </string>
+    <string name="name_of_food">this name_of_food </string>
+    <string name="name_0f_food">name_of_food</string>
+    <string name="more">More</string>
+    <string name="action_switch_layout">Action Switch Layout</string>
+
+
+</resources>
